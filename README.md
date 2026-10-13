@@ -1,7 +1,7 @@
 ## About Me
 - 🏫 I am studying **Game Development** in the **Digital Arts and Entertainment** program at Howest, Belgium
 - 🌀 I am learning **Low Level C++** for developing engines, tools and gameplay code
-- 💾 I am a passionate **Unity Developer** since 2019 with 30+ released games and 30k+ views on my itch.io
+- 💾 I am a passionate **Unity Developer** since 2019 with 30+ released games and 30k+ downloads on itch.io
 - 📫 Contact me: discord **Tudypie** or email **contact@tudypie.com**
 
 ## My Stuff
