@@ -1,7 +1,7 @@
 ## About Me
-- 🏫 I am a highschool student from Romania with a passion for **Computer Science**
-- 💾 I am a passionate **Game Developer** - *Unity and C#* since 2019
-- 🌀 I have experience in **Web Development** and **ML**
+- 🏫 I am studying Game Developemnt under Digital Arts and Entertainment degree at Howest, Belgium
+- 🌀 I am learning low level C++ for developing engines, tools and writing gameplay code
+- 💾 I am a passionate **Unity Developer** since 2019 with 30+ released games and 30k+ views on my itch.io
 - 📫 Contact me: discord **Tudypie** or email **contact@tudypie.com**
 
 ## My Stuff
