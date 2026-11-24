@@ -1,4 +1,4 @@
-- 🎮 Making Indie Games for PC [tudypie.itch.io](https://tudypie.itch.io/)
+- 🎮 Making Indie Games for PC: [tudypie.itch.io](https://tudypie.itch.io/)
 - 🎓 Studying Game Development at [Howest, DAE](https://digitalartsandentertainment.be)
 - 💻 Unity Freelancing at [clogic.dev](https://clogic.dev)
 - 📍 Residing in Kortrijk, BE
