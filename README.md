@@ -1,5 +1,5 @@
-Making Indie Games: https:/tudypie.itch.io/
-Studying Game Development at (Howest, DAE)[https://digitalartsandentertainment.be]
-Unity Freelancing at (clogic.dev)[https://clogic.dev]
-Residing in Kortrijk, BE :flag_be:
-Contact me at contact@tudypie.com
+- Making Indie Games: https:/tudypie.itch.io/
+- Studying Game Development at (Howest, DAE)[https://digitalartsandentertainment.be]
+- Unity Freelancing at (clogic.dev)[https://clogic.dev]
+- Residing in Kortrijk, BE :flag_be:
+- Contact me at contact@tudypie.com
